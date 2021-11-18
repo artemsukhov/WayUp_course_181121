@@ -1,5 +1,8 @@
-section {
-  padding-left: 10px;
+
+header,
+main, 
+footer {
+  margin-left: 10px;
 }
 
  h1 {
