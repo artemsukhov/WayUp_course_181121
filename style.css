@@ -1,0 +1,32 @@
+section {
+  padding-left: 10px;
+}
+
+ h1 {
+  color: red;
+}
+
+/* .title p:nth-of-type(1) */
+.title-first-description {
+  display: block;
+  background-color: blue;
+  color: #ffffff;
+  width: 100px;
+  margin-bottom: 100px;
+}
+
+.title-second-description-span {
+  color: red;
+}
+
+h2 {
+  color: #ffffff;
+  background-color: green;
+}
+.main h2 {
+padding: 40px;
+}
+
+li {
+  border: 1px solid black;
+}
